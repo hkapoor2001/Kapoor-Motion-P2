@@ -1,15 +1,7 @@
 #logosection{
-        display: grid;
-        grid-template-columns: auto 100vw auto;
-        grid-template-areas: ". logo .";
-        height: 100vh;
-    
-    
-        #logodiv{
-            grid-area: logo;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
     }
